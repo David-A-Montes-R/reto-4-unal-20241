@@ -3,7 +3,7 @@
 
 ### A continuación se desarrollará la documentación de las soluciones del reto 4:
 -----
-Primer reto: Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
+1.Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 ---------
 Para este reto, conviene usar la función "match-case", además es necesario evitar que se puedan introducir números negativos y letras; para lo cual se usa la función "is.digit".
 ```python
